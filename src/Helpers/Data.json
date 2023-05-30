@@ -1,0 +1,75 @@
+{
+    "Alumnos":[
+        {
+            "id":1,
+            "Nombre":"Juan",
+            "Apellidos":"Perez",
+            "Edad":20,
+            "Sexo":"M"
+        },
+        {
+            "id":2,
+            "Nombre":"Jose",
+            "Apellidos":"Isa",
+            "Edad":40,
+            "Sexo":"M"
+        },
+        {
+            "id":3,
+            "Nombre":"Santiago",
+            "Apellidos":"Cabral",
+            "Edad":21,
+            "Sexo":"M"
+        },
+        {
+            "id":4,
+            "Nombre":" Maria Valentina",
+            "Apellidos":"Fresia",
+            "Edad":19,
+            "Sexo":"F"
+        },
+        {
+            "id":5,
+            "Nombre":"Sofia",
+            "Apellidos":"Portillo Romero",
+            "Edad":20,
+            "Sexo":"F"
+        },
+        {
+            "id":6,
+            "Nombre":"Juan Manuel",
+            "Apellidos":"Ibañez",
+            "Edad":25,
+            "Sexo":"M"
+        },
+        {
+            "id":7,
+            "Nombre":"Juana",
+            "Apellidos":"Juarez",
+            "Edad":20,
+            "Sexo":"F"
+        },
+        {
+            "id":8,
+            "Nombre":"Martina",
+            "Apellidos":"Stoessel",
+            "Edad":22,
+            "Sexo":"F"
+        },
+        {
+            "id":9,
+            "Nombre":"Fernando",
+            "Apellidos":"Guzmán",
+            "Edad":45,
+            "Sexo":"M"
+        },
+        {
+            "id":10,
+            "Nombre":"Franchesca",
+            "Apellidos":"Rios",
+            "Edad":30,
+            "Sexo":"F"
+        }
+    ]
+
+}
